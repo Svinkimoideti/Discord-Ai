@@ -30,4 +30,4 @@ async def image(ctx):
     else:
         await ctx.send('А где фото?((')
 
-bot.run("MTE2NTE5MDE2ODI1MzMyMTIxNg.GB5wlI.CUvu2dS2JRNMpP0qXDrxFbbzdsjt89aoH6kjjU")
+bot.run("")
