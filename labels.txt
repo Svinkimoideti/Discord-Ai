@@ -1,0 +1,6 @@
+ Operativnaya pamyat
+ Disk
+ Mother plata
+ Video carta
+ Proccessor
+ Cooler
